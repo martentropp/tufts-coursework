@@ -25,3 +25,6 @@
 [submodule "cs111"]
 	path = cs111
 	url = git@github.com:martentropp/cs111.git
+[submodule "cs114"]
+	path = cs114
+	url = git@github.com:martentropp/cs114.git
