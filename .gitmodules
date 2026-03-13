@@ -34,3 +34,6 @@
 [submodule "cs86"]
 	path = cs86
 	url = git@github.com:martentropp/cs86.git
+[submodule "cs116"]
+	path = cs116
+	url = git@github.com:martentropp/cs116.git
