@@ -1,0 +1,24 @@
+[submodule "cs105"]
+	path = cs105
+	url = git@github.com:martentropp/cs105.git
+[submodule "cs11"]
+	path = cs11
+	url = git@github.com:martentropp/cs11.git
+[submodule "cs117"]
+	path = cs117
+	url = git@github.com:martentropp/cs117.git
+[submodule "cs15"]
+	path = cs15
+	url = git@github.com:martentropp/cs15.git
+[submodule "cs150-06"]
+	path = cs150-06
+	url = git@github.com:martentropp/cs150-06.git
+[submodule "cs160"]
+	path = cs160
+	url = git@github.com:martentropp/cs160.git
+[submodule "cs170"]
+	path = cs170
+	url = git@github.com:martentropp/cs170.git
+[submodule "cs40"]
+	path = cs40
+	url = git@github.com:martentropp/cs40.git
